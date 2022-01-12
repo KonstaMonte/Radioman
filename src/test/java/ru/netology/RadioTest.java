@@ -111,7 +111,7 @@ class RadioTest {
     }
 
     @Test
-    public void PositiveBoundaryConditionsForVolume() {
+    public void positiveBoundaryConditionsForVolume() {
         Radio radio = new Radio();
         radio.setCurrentVolume(70);
 
