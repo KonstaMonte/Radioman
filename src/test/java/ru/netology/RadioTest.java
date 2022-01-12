@@ -41,7 +41,7 @@ class RadioTest {
     }
 
     @Test
-    public void PositiveBoundaryConditionsForStations() {
+    public void positiveBoundaryConditionsForStations() {
         Radio radio = new Radio();
         radio.setCurrentStation(8);
 
